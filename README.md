@@ -1,4 +1,4 @@
-# InterpreterOfArithmeticExpressions
+# Interpreter of arithmetic expressions
 
 The purpose of this project is to provide a straightforward simulation of a lexer and parser for arithmetic expressions. Initially, the program loads a .txt file 
 containing arithmetic expressions written in standard notation. The program also includes a feature for storing the results of arithmetic expressions in variables, 
